@@ -1,3 +1,4 @@
 Belajar:
 a. Membuat Project sederhana secara konsisten
-b. Membuat Portfolio
+b. Membuat Portofolio
+c. Memasukan Project / Portofolio kedalam CV terbaru
