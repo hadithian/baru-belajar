@@ -2,6 +2,6 @@ Tambahan Belajar:
 a. pelajari kembali SQL
   *di popSQL/mySQL
 b. lihat dan pelajari Data Covid-19
-c. Membuat Data Prediksi
+c. Pelajari Pygame
 d. Pelajari Deep Learning
-e. Pelajari Math Algoritma
+e. Pelajari Tkinter
