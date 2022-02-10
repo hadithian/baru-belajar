@@ -1,4 +1,4 @@
 Belajar:
 a. Membuat Project sederhana secara konsisten
 b. Membuat Portofolio
-c. Memasukan Project / Portofolio kedalam CV terbaru
+c. Belajar Web Framework
